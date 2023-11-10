@@ -4,4 +4,5 @@ AngkotkeunYuk by Caring Coders Team Vocational High School 1 Cimahi
 2. Pera Rahmawati
 
 How To Run This Website:
-Run "npm run watch" on the directory website 
+1. Run "npm run watch" on the directory website 
+2. 
